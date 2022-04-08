@@ -1,4 +1,4 @@
-# Title (Regex No Rejects)
+# Title (Regex No Rejects- Tutorial: Regex Matching a Hex Value)
 
 Introductory paragraph (replace this with your text)
 
