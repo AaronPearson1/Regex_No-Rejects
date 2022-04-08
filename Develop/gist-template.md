@@ -4,7 +4,7 @@ Regular expressions are patterns used to match character combinations in strings
 
 ## Summary
 
-Hex value is usually used for color value. An example of this would be red is define as #FF0000, white as #FFFFFF, black as #000000 and as you can tell each Hex Value is composed of the number sign or also known as pound sign # follow by a set of six digit 0-9 and letter characters a-f. Subsequently, some hex value would also just be the number sign followed by three digit or letter characters a-f, such as the color black #000000 and #000 are the same.
+Hex value can be used for color value. An example of this would be red is define as #FF0000, green as #00FF00, black as #000000 and as you can tell each Hex Value is composed of the number sign or also known as pound sign # follow by a set of six digit 0-9 and letter characters a-f. Subsequently, some hex value would also just be the number sign followed by three digit or letter characters a-f, such as the color black #000000 and #000 are the same.
 
 ## Table of Contents
 - [Regex Components](#regex-components)
